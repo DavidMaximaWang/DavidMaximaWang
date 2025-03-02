@@ -5,3 +5,7 @@
 
 # Latest Blog Post
 [Building an App with GitHub and Credentials Authentication in Next.js 15 with Sanity](https://dev.to/qunling_wang_9ab0f8acb509/building-an-app-with-github-and-credentials-authentication-in-nextjs-15-with-sanity-5aon)
+
+Check this for vue 2 beginner project:
+[Vue 2 Shopping Cart Project](https://dev.to/qunling_wang_9ab0f8acb509/-vue-2-shopping-cart-project-5cp8)
+
