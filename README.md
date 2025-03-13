@@ -25,5 +25,6 @@
 
 Check this for vue 2 beginner project:
 [Vue 2 Shopping Cart Project](https://dev.to/qunling_wang_9ab0f8acb509/-vue-2-shopping-cart-project-5cp8)
+
 Webpack Demo in minutes with Cursor IDE: [Webpack Demo](https://github.com/DavidMaximaWang/interview/tree/main/webpack-demo)
 
