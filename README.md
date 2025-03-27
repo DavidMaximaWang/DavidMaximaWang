@@ -3,7 +3,7 @@
 - 🚀 Built a Full-Stack Next.js App [Live Demo](https://yc-directory-psi-pearl.vercel.app/) (username: aaa@gmail.com password: password321)
 - 📫 Reach me at: qunlingw@gmail.com
 - fitness app react-native: [David Fitness](https://github.com/DavidMaximaWang/david-fitness)
-- Find your favorite dog: [Click here](https://fetch-react-chi.vercel.app/)
+- Find your favorite dog: [Demo](https://fetch-react-chi.vercel.app/)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/416d3ea7-6e54-4fc8-958f-9bc09345b80c" width="300" />
